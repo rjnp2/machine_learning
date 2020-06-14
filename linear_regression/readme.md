@@ -1,2 +1,3 @@
-Linear regression is used for finding linear relationship between two continuous variables. 
-One is predictor or independent variable (generally denoted by 'X') and other is response or dependent variable(y).
+# Linear Regression
+
+Learning a linear regression model means estimating the values of the coefficients used in the representation with the data that we have available.
